@@ -7,7 +7,7 @@ for polynomial distributed data using fancy algorithm for finding power of data 
 # Startup 🚀 
 
 1. Create a directory `mkdir directory`
-2. Clone this repo into the directory `https://github.com/yehorkhod/lazy-polynomial-regression-research.git directory`
+2. Clone this repo into the directory `git clone https://github.com/yehorkhod/lazy-polynomial-regression-research.git directory`
 3. Go into the directory `cd directory`
 4. Create a virtual environment `python -m venv venv`
 5. Activate it: 
